@@ -1,8 +1,6 @@
 projects:
   gitkb:
     repo: git@github.com:harmony-labs/gitkb.git
-    type: meta
 
   meta:
     repo: git@github.com:harmony-labs/meta.git
-    type: meta
